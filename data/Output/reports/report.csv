@@ -1,0 +1,2 @@
+file,rows_before,columns_before,missing_cells_before,duplicate_rows_before,rows_after,columns_after,missing_cells_after,duplicate_rows_after,cells_missing_removed,duplicate_rows_removed
+countries.csv,188,21,181,0,188,21,0,0,181,0
